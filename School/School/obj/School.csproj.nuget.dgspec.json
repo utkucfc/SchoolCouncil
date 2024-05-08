@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Utku\\source\\repos\\School\\School\\School.csproj": {}
+    "C:\\Users\\Utku\\Desktop\\odev\\School\\School\\School.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Utku\\source\\repos\\School\\School\\School.csproj": {
+    "C:\\Users\\Utku\\Desktop\\odev\\School\\School\\School.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Utku\\source\\repos\\School\\School\\School.csproj",
+        "projectUniqueName": "C:\\Users\\Utku\\Desktop\\odev\\School\\School\\School.csproj",
         "projectName": "School",
-        "projectPath": "C:\\Users\\Utku\\source\\repos\\School\\School\\School.csproj",
+        "projectPath": "C:\\Users\\Utku\\Desktop\\odev\\School\\School\\School.csproj",
         "packagesPath": "C:\\Users\\Utku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Utku\\source\\repos\\School\\School\\obj\\",
+        "outputPath": "C:\\Users\\Utku\\Desktop\\odev\\School\\School\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Utku\\AppData\\Roaming\\NuGet\\NuGet.Config",

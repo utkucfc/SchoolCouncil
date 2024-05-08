@@ -15,7 +15,7 @@ namespace School.Controllers
             _db = context;
         }
 
-        [HttpPost(Name = "PostStudent")]
+        [HttpPost(Name = "SchoolCouncil")]
         public string PostProduct(PostData postData)
         {
             Students students = new Students();

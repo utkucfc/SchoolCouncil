@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RzXZ2v+CEEcvyLIBr2FAsFNMZByhnoK0aS0Fxi/GJQ47OCXIXHhF7fjTMKnLJg5a/LGMTLTf5qyfPL6cbzugSQ==",
+  "dgSpecHash": "e47rVtxZcBg49cCwQHXtA8+Q7ldhKJMBBfPJYJqhPJr09/mb8LN9edGJt/l9p7+2Do1BkzUmK3zNbjItFgrVkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Utku\\source\\repos\\School\\School\\School.csproj",
+  "projectFilePath": "C:\\Users\\Utku\\Desktop\\odev\\School\\School\\School.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Utku\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.15\\microsoft.data.sqlite.core.7.0.15.nupkg.sha512",
     "C:\\Users\\Utku\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.15\\microsoft.entityframeworkcore.7.0.15.nupkg.sha512",
