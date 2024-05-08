@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "School.Controllers.StudentGradeController",
+    "Method": "PostProduct",
+    "RelativePath": "StudentGrade",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "postData",
+        "Type": "School.Models.PostData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
