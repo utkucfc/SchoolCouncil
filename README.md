@@ -1,2 +1,2 @@
-endpoint: https://localhost:7088/SchoolCouncil
+endpoint: https://localhost:7088/StudentGrade
  
