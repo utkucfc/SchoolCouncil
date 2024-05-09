@@ -11,7 +11,7 @@ namespace School.Models
     }
     public class Grade
     {
-        public string Course_code { get; set; }
+        public string code { get; set; }
         public double value{ get; set; }
     }
 }

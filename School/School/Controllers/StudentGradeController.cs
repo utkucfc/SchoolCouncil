@@ -25,7 +25,7 @@ namespace School.Controllers
 
             foreach (var grade in postData.Grades)
             {
-                var prevGrade = _db.Grades.FirstOrDefault(t => t.StdNumber == postData.StdNumber && t.Course_code == grade.Course_code);
+                var prevGrade = _db.Grades.FirstOrDefault(t => t.StdNumber == postData.StdNumber && t.code == grade.code);
                 if (prevGrade != default)
                 {
                     prevGrade.Grade = (prevGrade.Grade + grade.value) / 2;
@@ -34,9 +34,10 @@ namespace School.Controllers
                 {
                     Grades grades = new Grades();
                     grades.StdNumber = students.StdNumber;
-                    grades.Course_code = grade.Course_code;
+                    grades.code = grade.code;
                     grades.Grade = grade.value;
                     _db.Add(grades);
+                    _db.SaveChanges();
                 }
             }
             _db.Add(students);
